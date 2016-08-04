@@ -18,5 +18,8 @@ navigation:
   - name: About Me
     id: bfc3fdd1-537f-43db-b160-64753cd1cd90
     type: content
+  - name: Help with Websites
+    id: fb9d2e81-30a6-4ac2-8ac8-521530500083
+    type: content
 title: It’s always about the Gospel of Christ
 description: Radical Follower of the Way
