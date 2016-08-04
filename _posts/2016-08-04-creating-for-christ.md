@@ -1,11 +1,6 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.creatingforchrist.com'
-  name: Creating for Christ
-  favicon: 'http://www.creatingforchrist.com/favicon.ico'
-  domain: www.creatingforchrist.com
+datePublished: '2016-08-04T23:03:00.933Z'
+sourcePath: _posts/2016-08-04-creating-for-christ.md
 keywords:
   - glory
   - websites
@@ -17,24 +12,28 @@ keywords:
   - fees
   - fleece
   - mobile
-description: >-
-  Are you ever frustrated by the cost and difficulty of creating a website or
-  media for your ministry? There are many companies that provide really good
-  website options but that charge sometimes in...
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.creatingforchrist.com/'
-title: Creating for Christ
-datePublished: '2016-08-04T23:00:32.460Z'
-dateModified: '2016-08-04T22:59:49.689Z'
+related: []
+author: []
 via: {}
+dateModified: '2016-08-04T23:03:00.481Z'
+title: Creating for Christ
+app_links: []
+publisher:
+  url: 'http://www.creatingforchrist.com'
+  name: Creating for Christ
+  favicon: 'http://www.creatingforchrist.com/favicon.ico'
+  domain: www.creatingforchrist.com
+description: >-
+  If you need help with some website design, photo editing or creation, I do a
+  little of that as well.
+inLanguage: en
+hasPage: true
 starred: false
-sourcePath: _posts/2016-08-04-creating-for-christ.md
-inFeed: true
-hasPage: false
-inNav: false
+url: creating-for-christ/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Creating for Christ</h1><p>Are you ever frustrated by the cost and difficulty of creating a website or media for your ministry? There are many companies that provide really good website options but that charge sometimes in...</p><img src="http://www.Creatingforchrist.com/uploads/7/3/2/6/7326889/3478964_orig.png" /></article>
+<article style=""><img src="http://www.Creatingforchrist.com/uploads/7/3/2/6/7326889/3478964_orig.png" /><h1>Creating for Christ</h1><p>Are you ever frustrated by the cost and difficulty of creating a website or media for your ministry? There are many companies that provide really good website options but that charge sometimes in...</p></article>
+
+If you need help with some website design, photo editing or creation, I do a little of that as well.
