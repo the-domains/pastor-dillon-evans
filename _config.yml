@@ -14,5 +14,9 @@ color:
     - '#160600'
 layout_spectrum: 0.009792670607566833
 name: Pastor Dillon Evans
+navigation:
+  - name: About Me
+    id: bfc3fdd1-537f-43db-b160-64753cd1cd90
+    type: content
 title: It’s always about the Gospel of Christ
 description: Radical Follower of the Way
