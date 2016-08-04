@@ -1,14 +1,17 @@
-layout_spectrum: 0.009792670607566833
 typography_spectrum: 0.49443249334581196
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5853603524155915
   lightness: 0.13474552938714623
   saturation: 0.4350348017178476
   rhythmicContrast: 0.5932775977998972
   brandColors:
-    - '#101010'
-    - '#A68F63'
-    - '#BFCDD6'
-    - '#417B91'
-    - '#FFFFFF'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.009792670607566833
 name: Pastor Dillon Evans
+title: 'So whether you eat or drink or whatever you do, do it for the glory of God.'
