@@ -1,18 +1,18 @@
-typography_spectrum: 0.3635541188996285
+typography_spectrum: 0.49443249334581196
 content_rating:
   adult: false
 color:
-  brandStrength: 0.6605227657128125
-  lightness: 0.31999065703712404
-  saturation: 0.3635522036347538
-  rhythmicContrast: 0.7259381462354213
+  brandStrength: 0.5853603524155915
+  lightness: 0.13474552938714623
+  saturation: 0.4350348017178476
+  rhythmicContrast: 0.5932775977998972
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.7031059241853654
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.009792670607566833
 name: Pastor Dillon Evans
 navigation:
   - name: About Me
@@ -20,6 +20,9 @@ navigation:
     type: content
   - name: Help with Websites
     id: fb9d2e81-30a6-4ac2-8ac8-521530500083
+    type: content
+  - name: My Recent Sermons
+    id: 92fdac32-1f8d-440d-b72c-5fa4dc6ff41e
     type: content
 title: It’s always about the Gospel of Christ
 description: Radical Follower of the Way
