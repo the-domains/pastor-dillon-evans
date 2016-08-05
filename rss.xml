@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[It’s always about the Gospel of Christ]]></title>
         <description><![CDATA[It’s always about the Gospel of Christ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pastor-dillon-evans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 01:11:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 01:18:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pastor-dillon-evans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sermons]]></title>
-            <description><![CDATA[<article><h1>Sermons</h1><p>42 And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers. 43 And awe came upon every soul, and many wonders and signs were being done...</p></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f87d7e5-1a27-43e0-94f1-e20825f8abf6.jpg">]]></description>
             <link>http://www.newhopebaptistaurora.com/sermons</link>
             <guid isPermaLink="false">92fdac32-1f8d-440d-b72c-5fa4dc6ff41e</guid>
-            <pubDate>Fri, 05 Aug 2016 01:11:53 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 01:18:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
