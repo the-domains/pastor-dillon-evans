@@ -1,17 +1,17 @@
-typography_spectrum: 0.7366430170368403
+typography_spectrum: 0.3635541188996285
 content_rating:
   adult: false
 color:
-  brandStrength: 0.6775805857032537
-  lightness: 0.7271666256710887
-  saturation: 0.8378055966459215
-  rhythmicContrast: 0.7173249057959765
+  brandStrength: 0.6605227657128125
+  lightness: 0.31999065703712404
+  saturation: 0.3635522036347538
+  rhythmicContrast: 0.7259381462354213
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 layout_spectrum: 0.7031059241853654
 name: Pastor Dillon Evans
 navigation:
