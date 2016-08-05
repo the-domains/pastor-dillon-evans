@@ -1,11 +1,11 @@
-typography_spectrum: 0.6354137216694653
+typography_spectrum: 0.49870334030129015
 content_rating:
   adult: false
 color:
-  brandStrength: 0.46170090651139617
-  lightness: 0.6337410912383348
-  saturation: 0.24335061758756638
-  rhythmicContrast: 0.7237887687515467
+  brandStrength: 0.8676291592419147
+  lightness: 0.23106679343618453
+  saturation: 0.3197845409158617
+  rhythmicContrast: 0.6688940017484128
   brandColors:
     - '#595241'
     - '#B8AE9C'
