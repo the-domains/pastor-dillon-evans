@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-08-05T01:42:13.168Z'
-datePublished: '2016-08-05T01:42:17.298Z'
+dateModified: '2016-08-05T01:42:36.544Z'
+datePublished: '2016-08-05T01:42:36.851Z'
 title: What is a soul?
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-05-what-is-a-soul.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
