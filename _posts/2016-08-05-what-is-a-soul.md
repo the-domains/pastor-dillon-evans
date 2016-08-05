@@ -1,19 +1,37 @@
 ---
-description: ''
-dateModified: '2016-08-05T01:42:36.544Z'
-datePublished: '2016-08-05T01:42:36.851Z'
-title: What is a soul?
+datePublished: '2016-08-05T02:20:23.436Z'
+isBasedOnUrl: 'http://www.newhopebaptistaurora.com/pastors-blog/what-is-a-soul'
+keywords:
+  - gabriella
+  - '60505'
+  - '1203'
+  - geek
+  - servant
+  - aurora
+  - nina
+  - baptist
+  - pastor
+  - jesus
+related: []
 author: []
-publisher: {}
 via: {}
+dateModified: '2016-08-05T02:20:00.634Z'
+title: What is a soul?
+app_links: []
+publisher:
+  url: 'http://www.newhopebaptistaurora.com'
+  name: New Hope Baptist Church
+  favicon: 'http://www.newhopebaptistaurora.com/favicon.ico'
+  domain: www.newhopebaptistaurora.com
+description: Pastor Dillon Evans from Ask the Pastor Series
+inLanguage: en
+starred: false
 sourcePath: _posts/2016-08-05-what-is-a-soul.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e95f4cc-4886-4c15-a59a-2eb98627f4e9.jpg)
-
-# What is a soul?
+<article style=""><img src="http://www.newhopebaptistaurora.com/uploads/7/3/2/6/7326889/soul.jpg?250" /><h1>What is a soul?</h1><p>Pastor Dillon Evans from Ask the Pastor Series</p></article>
