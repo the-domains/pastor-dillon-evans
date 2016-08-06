@@ -24,5 +24,8 @@ navigation:
   - name: My Recent Sermons
     id: 92fdac32-1f8d-440d-b72c-5fa4dc6ff41e
     type: content
+  - name: Blog
+    id: 237436b3-2894-48cb-b1d5-eea461990bf1
+    type: content
 title: It’s always about the Gospel of Christ
 description: Radical Follower of the Way
