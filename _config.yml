@@ -1,19 +1,33 @@
+name: Pastor Dillon Evans
+favicon: null
+layout_spectrum: 0.009792670607566833
 typography_spectrum: 0.49443249334581196
 content_rating:
   adult: false
-color:
-  brandStrength: 0.5853603524155915
-  lightness: 0.13474552938714623
-  saturation: 0.4350348017178476
-  rhythmicContrast: 0.5932775977998972
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.009792670607566833
-name: Pastor Dillon Evans
 navigation: []
 title: It’s always about the Gospel of Christ
 description: Radical Follower of the Way
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#eaf2f4'
+    - '#0c1010'
+    - '#630202'
+    - '#a97c7c'
+    - '#c8adaf'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
